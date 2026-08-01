@@ -93,7 +93,7 @@ export default function Hero() {
           {/* Social links */}
           <div className="flex items-center gap-6">
             <a
-              href="https://linkedin.com/in/ezequielmettler"
+              href="https://www.linkedin.com/in/ezemettler"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 text-sm text-muted-foreground hover:text-primary transition-colors duration-200"
@@ -112,7 +112,7 @@ export default function Hero() {
               LinkedIn
             </a>
             <a
-              href="https://github.com/ezequielmettler"
+              href="https://github.com/Ezemettler"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 text-sm text-muted-foreground hover:text-primary transition-colors duration-200"

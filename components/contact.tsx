@@ -8,8 +8,8 @@ export default function Contact() {
   const links = [
     {
       label: 'Email',
-      value: 'ezequielmettler@gmail.com',
-      href: 'mailto:ezequielmettler@gmail.com',
+      value: 'ehmettler@gmail.com',
+      href: 'mailto:ehmettler@gmail.com',
       icon: (
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -30,8 +30,8 @@ export default function Contact() {
     },
     {
       label: 'LinkedIn',
-      value: 'linkedin.com/in/ezequielmettler',
-      href: 'https://linkedin.com/in/ezequielmettler',
+      value: 'linkedin.com/in/ezemettler',
+      href: 'https://www.linkedin.com/in/ezemettler',
       icon: (
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -47,8 +47,8 @@ export default function Contact() {
     },
     {
       label: 'GitHub',
-      value: 'github.com/ezequielmettler',
-      href: 'https://github.com/ezequielmettler',
+      value: 'github.com/Ezemettler',
+      href: 'https://github.com/Ezemettler',
       icon: (
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -64,8 +64,8 @@ export default function Contact() {
     },
     {
       label: 'WhatsApp',
-      value: '+54 9 11 XXXX-XXXX',
-      href: 'https://wa.me/5491100000000',
+      value: '+54 9 11 5110-9989',
+      href: 'https://wa.me/5491151109989',
       icon: (
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -99,7 +99,7 @@ export default function Contact() {
             </p>
             <div className="flex flex-wrap gap-4">
               <a
-                href="mailto:ezequielmettler@gmail.com"
+                href="mailto:ehmettler@gmail.com"
                 className="inline-flex items-center gap-2 px-6 py-3 rounded-md bg-primary text-primary-foreground font-semibold text-sm hover:bg-primary/90 transition-all duration-200 hover:shadow-lg hover:shadow-primary/20"
               >
                 <svg

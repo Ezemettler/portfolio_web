@@ -3,10 +3,10 @@
 import { useI18n } from '@/lib/i18n'
 
 const stack = {
-  bi: ['Power BI', 'Looker Studio', 'Google Data Studio', 'Metabase'],
-  programming: ['Python', 'Pandas', 'SQL', 'dbt', 'JavaScript / TypeScript'],
-  cloud: ['Google Cloud (BigQuery, Cloud Functions, Scheduler)', 'Google Sheets API', 'Git / GitHub'],
-  integration: ['REST APIs', 'Web Scraping', 'HubSpot', 'OpenAI API', 'n8n', 'Zapier'],
+  bi: ['Power BI', 'DAX', 'Power Query', 'Looker Studio', 'Tableau', 'Excel'],
+  programming: ['Python', 'Pandas', 'openpyxl', 'Node.js', 'SQL'],
+  cloud: ['GCP', 'BigQuery', 'Cloud Run', 'Docker', 'GitHub Actions', 'Git', 'SQL Server'],
+  integration: ['HubSpot API', 'Botmaker API', 'Google Ads', 'Meta Ads', 'n8n', 'Claude', 'Claude Code', 'Kommo'],
 }
 
 export default function About() {

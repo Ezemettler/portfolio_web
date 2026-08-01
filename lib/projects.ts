@@ -29,7 +29,7 @@ export const projects: Project[] = [
     id: '1',
     slug: 'pipeline-cotizacion-usd-bcra',
     image: '/images/project-bcra.png',
-    githubUrl: 'https://github.com/ezequielmettler',
+    githubUrl: 'https://github.com/Ezemettler',
     stack: ['Python', 'Pandas', 'BCRA API', 'Google Cloud Functions', 'Cloud Scheduler', 'Looker Studio'],
     title: {
       es: 'Pipeline Cotización USD / BCRA',
@@ -52,7 +52,7 @@ export const projects: Project[] = [
     id: '2',
     slug: 'dashboard-ventas',
     image: '/images/project-sales.png',
-    githubUrl: 'https://github.com/ezequielmettler',
+    githubUrl: 'https://github.com/Ezemettler',
     stack: ['Python', 'Pandas', 'Power BI', 'DAX', 'Excel'],
     title: {
       es: 'Dashboard de Ventas',
